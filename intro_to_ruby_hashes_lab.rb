@@ -12,6 +12,9 @@ end
 
 def pioneer
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
+  cool_person = {}
+  cool_person[:name] = "Grace Hopper"
+  cool_person
 end
 
 def id_generator
